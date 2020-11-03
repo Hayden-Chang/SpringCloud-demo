@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud-demo.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/config-client/config-client.iml" filepath="$PROJECT_DIR$/springcloud/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/config-server/config-server.iml" filepath="$PROJECT_DIR$/springcloud/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/springcloud/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/springcloud/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/springcloud/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-hi-2/service-hi-2.iml" filepath="$PROJECT_DIR$/springcloud/service-hi-2/service-hi-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-miya/service-hi-2 (1).iml" filepath="$PROJECT_DIR$/springcloud/service-miya/service-hi-2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/springcloud/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/springcloud/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/eurekaserver/spring-cloud-example-registry.iml" filepath="$PROJECT_DIR$/springcloud/eurekaserver/spring-cloud-example-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/spring-cloud-examples.iml" filepath="$PROJECT_DIR$/springcloud/spring-cloud-examples.iml" />
+    </modules>
+  </component>
+</project>

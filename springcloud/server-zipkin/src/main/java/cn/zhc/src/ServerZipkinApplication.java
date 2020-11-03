@@ -2,18 +2,18 @@ package cn.zhc.src;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.context.config.annotation.RefreshScope;
+import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import zipkin2.server.internal.EnableZipkinServer;
 
 @SpringBootApplication
 @EnableEurekaClient
 @EnableDiscoveryClient
-@RefreshScope
-public class Application {
+@EnableZipkinServer
+public class ServerZipkinApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Application.class,args);
+        SpringApplication.run(ServerZipkinApplication.class,args);
     }
 }
