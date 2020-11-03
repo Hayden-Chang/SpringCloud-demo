@@ -1,0 +1,13 @@
+server:
+  port: 8761
+
+spring:
+  profiles: peer1
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+  instance:
+    hostname: peer1
+    serviceUrl:
+      defaultZone: http://peer2:8769/eureka/

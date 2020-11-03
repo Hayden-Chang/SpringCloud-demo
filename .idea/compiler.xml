@@ -44,6 +44,7 @@
       <module name="service-ribbon" options="-parameters" />
       <module name="service-zuul" options="-parameters" />
       <module name="spring-cloud-example-registry" options="-parameters" />
+      <module name="spring-cloud-examples" options="" />
     </option>
   </component>
 </project>
