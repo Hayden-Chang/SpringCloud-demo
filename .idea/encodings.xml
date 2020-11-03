@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springcloud/config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/serice-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/server-zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/service-hi-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/service-hi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/service-miya/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/service-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/service-zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>
